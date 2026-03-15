@@ -22,3 +22,6 @@ Thumbs.db
 # Secrets / local config
 .env
 .env.*
+
+# Runtime state
+.mathcraft_version_state.json
